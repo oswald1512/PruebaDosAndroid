@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Desafío 2 </string>
+    <string name="titulo_registro">Registro de Alumnos</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_apellido">Apellido</string>
+    <string name="hint_nota">Nota</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_cancelar">Cancelar</string>
+</resources>
